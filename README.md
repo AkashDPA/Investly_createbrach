@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Commands to push to repo
 git status \
 git add . \
@@ -74,3 +75,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Investly_createbrach
+This is the create branch only.
+>>>>>>> 1ead0196c3b9fa68e2ad94fc6e6120c54a170c9a
