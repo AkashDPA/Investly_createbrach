@@ -1,0 +1,28 @@
+
+.main_create {
+    width: 300px;
+    margin-left: 360px;
+    text-align: left;
+    margin-top: 100px;
+}
+
+.created {
+    font-size: 28px;
+    color: #004d00;
+}
+
+.frame-watch {
+    background-color: rgba(169, 223, 191, 0.1);
+    border-bottom: 1px solid var(--lightGray);
+    width: 1165px;
+    height: 620px;
+    margin-left: 350px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #004d00;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(169, 223, 191, 0.25);
+    text-align: center;
+}
+
+

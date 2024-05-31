@@ -1,0 +1,107 @@
+
+/*.login-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}*/
+
+.boxSign {
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: white;
+    padding: 30px;
+    box-shadow: 1px 1px 4px #b9b5b5;
+    width: 340px;
+    height: 420px;
+    background-color: #004d00;
+}
+
+.loginlogoPicsSgn > img {
+    width: 25%;
+    margin-left: -20px;
+    margin-top: -15px;
+}
+
+.loginlogoNameSgn {
+    color: white;
+    font-size: 30px;
+    margin-left: 8px;
+    font-style: mathit;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.NameDetails {
+    display: flex; /* Use flexbox */
+    gap: 14px;
+}
+
+.details_boxSgn {
+    margin-top: 25px;
+    border-radius: 20px;
+}
+
+.FirstN, .LastN {
+    border-radius: 4px;
+    border: 1px solid lightgray;
+    width: 132px;
+}
+
+.borderSgn {
+    border-radius: 4px;
+    border: 1px solid lightgray;
+    width: 280px;
+}
+
+.signBtnBox {
+    margin-top: 30px;
+}
+
+.signBtn {
+    font-size: 16px;
+    font-weight: 600;
+    background-color: white;
+    color: #004d00;
+    border-radius: 5px;
+    padding: 5px 12px;
+    cursor: pointer;
+    text-decoration: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+.signBtn:hover {
+    background-color: #004d00;
+    color: white;
+    border: 2px solid white;
+}
+
+.CancelBtnSgn {
+    font-size: 16px;
+    font-weight: 600;
+    background-color: white;
+    color: #004d00;
+    border-radius: 5px;
+    padding: 5px 12px;
+    cursor: pointer;
+    text-decoration: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    margin-left: 60px;
+}
+.CancelBtnLgn:hover {
+    background-color: #004d00;
+    color: white;
+    border: 2px solid white;
+}
+
+.alreadyacc {
+    margin-top: 20px;
+    color: white;
+    text-decoration: underline;
+    cursor: pointer;
+}
